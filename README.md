@@ -1,4 +1,4 @@
 Python-Training
 ===============
 
-Resources for teaching Python
+Resources for teaching Python.
